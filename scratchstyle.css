@@ -1,0 +1,71 @@
+html{
+    background-color: rgba(250, 165, 250, 0.701);
+}
+
+h1{
+    color:navy;
+    background-color:rgba(137, 43, 226, 0.256);
+    text-align: center;
+    display:round;
+}
+
+nav ul{
+    list-style-type: none;
+    background-color:navy;
+    
+    overfloW:hidden;
+    align-content:center;
+}
+
+nav li{
+    float:left;
+}
+
+nav li a{
+    color:rgb(208, 248, 148);
+    display:block;
+    padding:15px 15px;
+    text-align:center;
+    padding:15px 15px;
+    text-decoration:none;
+}
+
+nav li a:hover{
+    background-color:rgb(208, 248, 148);
+    color:navy;S
+}
+
+.school{
+    border:1px dotted navy;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    background-color:rgba(255, 255, 255, 0.229);
+    margin:3%;
+}
+
+.mission{
+    font-family: cursive;
+    background-color: rgba(177, 177, 249, 0.514);
+    margin:5%;
+}
+
+.mission img {
+    padding-left:40%;
+    
+}
+
+#comment{
+    font-family:'Courier New', Courier, monospace;
+    font-size:small;
+}
+
+#video {
+    align-content:center;
+}
+
+footer{
+    font:size 5px;
+    text-align: center;
+    text-decoration: underline;
+    align-content:bottom;
+}
